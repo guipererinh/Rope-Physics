@@ -24,7 +24,7 @@ with(global.game_settings)
 	window_toggle_fullscreen = true;
 	
 	starting_room = rm_main;
-	game_fps = 60
+	game_fps = 60;
 	debug = false;
 }
 

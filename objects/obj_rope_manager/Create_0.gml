@@ -1,0 +1,1 @@
+rope = Rope(mouse_x, mouse_y, 25, 8, 8, 20);
